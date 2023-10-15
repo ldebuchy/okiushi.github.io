@@ -1,0 +1,149 @@
+body {
+    background-color: #000;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    font-family: Montserrat, sans-serif;
+}
+
+header {
+    padding-inline: 15vw;
+    background: rgba(0, 0, 0, 0.8);
+    backdrop-filter: blur(5px);
+    color: #fff;
+}
+
+.nav-link{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.nav-link:hover{
+    color: #fdc200;
+}
+
+.nav-link:focus{
+    color: #fdc200;
+}
+
+section {
+    padding-inline: 10vw;
+    padding-block: 3vw;
+}
+
+.welcomer img{
+    margin-top: 15vh;
+    width: 100%;
+    height: auto;
+}
+
+.welcomer{
+    padding: 0;
+    text-align: center;
+    margin-bottom: 5vw;
+}
+
+.welcomer h1{
+    text-align: center;
+    margin-top: -3vw;
+    font-size: 5vw;
+    font-weight: 600;
+}
+
+.welcomer p{
+    text-align: center;
+    font-weight: 400;
+    color: #bbbbcc;
+}
+
+.scroll-down img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    text-align: center;
+    cursor: pointer;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-weight: 600;
+    line-height: 1.2;
+    margin: 0 0 1.5rem 0;
+    color: #fff;
+}
+
+.hommeleplusbeaudefrance {
+    width: 300px;
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+
+#skills img{
+    width: 80px;
+    height: auto;
+    margin: 20px;
+}
+
+#skills li{
+    list-style: none;
+    margin: 10px;
+    padding: 0;
+}
+
+.firm-logo{
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.firm-logo img{
+    width: 300px;
+    height: auto;
+    margin: 20px;
+    padding: 0;
+}
+
+footer {
+    padding-block: 20px;
+    display: flex;
+    justify-content: center;
+    backdrop-filter: blur(5px);
+    color: #fff;
+}
+
+button {
+    color: #000000;
+    background: #fdc200;
+    border: #fdc200 0px solid;
+    border-radius: 8px;
+    padding-block: 8px;
+    padding-inline: 15px;
+}
+
+button a{
+    color: #000000;
+    text-decoration: none;
+}
+
+button img{
+    width: 30px;
+    height: auto;
+    margin-right: 10px;
+    padding: 0;
+}
+
+.icon{
+    width: 50px;
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
